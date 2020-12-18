@@ -1,6 +1,6 @@
 {
   "name": "@josephuspaye/win-audio-outputs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "List and control system audio outputs from Node.js on Windows",
   "main": "dist/main.js",
   "repository": "https://github.com/JosephusPaye/win-audio-outputs.git",
