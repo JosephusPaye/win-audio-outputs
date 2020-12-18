@@ -1,6 +1,6 @@
 # win-audio-outputs
 
-> List and control audio outputs from Node.js on Windows
+> List and system control audio outputs from Node.js on Windows
 
 Wraps the excellent [SoundVolumeView](https://www.nirsoft.net/utils/sound_volume_view.html) for use in Node.js.
 
