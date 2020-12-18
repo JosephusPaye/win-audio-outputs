@@ -59,7 +59,7 @@ main();
 
 ### Set the volume of an output
 
-The following program sets the volume of the default multimedia output to 50%.
+The following program sets the volume of the default multimedia output to 50%:
 
 ```js
 import { listOutputs, setVolume } from '@josephuspaye/win-audio-outputs';
@@ -82,7 +82,7 @@ main();
 
 ### Mute or unmute an output
 
-The following program mutes or unmutes the default communications output.
+The following program mutes or unmutes the default communications output:
 
 ```js
 import { listOutputs, mute, unmute } from '@josephuspaye/win-audio-outputs';
@@ -109,7 +109,7 @@ main();
 
 ### Change default output
 
-The following program changes the default multimedia output to the first non-default one.
+The following program changes the default multimedia output to the first non-default one:
 
 ```js
 import { listOutputs, setAsDefault } from '@josephuspaye/win-audio-outputs';
